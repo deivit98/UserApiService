@@ -4,7 +4,7 @@ To run this project you need PostgreSQL locally or if you prefer you can run doc
 
 All of the needed data is seeded in the database!
 
-For reference you can see this
+For reference you can use this
 
 UserName = "ivivan", DisplayName = "Ivan Ivanov", Email = "i.ivanov@example.com",  
 UserName = "igeor", DisplayName = "Ivelina Georgieva", Email = "i.georgieva@example.com" ,    
