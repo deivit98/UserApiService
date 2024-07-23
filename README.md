@@ -6,9 +6,9 @@ All of the needed data is seeded in the database!
 
 For reference you can see this
 
-UserName = "ivivan", DisplayName = "Ivan Ivanov", Email = "i.ivanov@example.com" 
-UserName = "igeor", DisplayName = "Ivelina Georgieva", Email = "i.georgieva@example.com" ,
-UserName = "kivanova", DisplayName = "Katerina Ivanova", Email = "k.ivanova@example.com" ,
-UserName = "igerd", DisplayName = "Ivaila Gerdjikova", Email = "i.gerdjikova@example.com" ,
-UserName = "kakost", DisplayName = "Kaloqn Kostadinov", Email = "k.kostadinov@example.com" ,
+UserName = "ivivan", DisplayName = "Ivan Ivanov", Email = "i.ivanov@example.com",  
+UserName = "igeor", DisplayName = "Ivelina Georgieva", Email = "i.georgieva@example.com" ,    
+UserName = "kivanova", DisplayName = "Katerina Ivanova", Email = "k.ivanova@example.com" ,  
+UserName = "igerd", DisplayName = "Ivaila Gerdjikova", Email = "i.gerdjikova@example.com" ,  
+UserName = "kakost", DisplayName = "Kaloqn Kostadinov", Email = "k.kostadinov@example.com" ,  
 UserName = "gdimit", DisplayName = "Georgi Dimitrov", Email = "g.dimitrov@example.com" 
