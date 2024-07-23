@@ -31,7 +31,7 @@ namespace UserApplication.Service.Services
 
             foreach (var user in users)
             {
-                result.Add(new UserModel { DisplayName =  user.DisplayName, UserName = user.UserName, Email = user.Email });
+                result.Add(new UserModel { DisplayName =  user.DisplayName, Username = user.UserName, Email = user.Email });
             }
 
             return result;
